@@ -38,7 +38,7 @@ Soy desarrollador junior. Escribo código bien diseñado y eficiente utilizando 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="24">](https://www.w3.org//)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="24">](https://www.w3.org/Style/CSS/Overview.en.html/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/) | [<img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_dotnet.png" alt=".net" width="38">](https://www.microsoft.com/)
 |---|---|---|---|---|
 
-### Framework y Librerias
+### Framework y Librerías
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
 |---|---|
@@ -54,4 +54,4 @@ Soy desarrollador junior. Escribo código bien diseñado y eficiente utilizando 
 
 ### Github Repositorios
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosCab061&repo=soportecnic&show_owner=true)](https://github.com/CarlosCab061/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosCab061&repo=soportecnic&show_owner=true)](https://github.com/CarlosCab061/soportecnic)
