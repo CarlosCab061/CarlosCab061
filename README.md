@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  <h2 align="center">Perfil</h2>
 </p>
 
-### Hola 👋 soy Carlos Cabrera
+### Hola 👋
 > Estudiante de Ingeniería en Sistemas.
 
 
