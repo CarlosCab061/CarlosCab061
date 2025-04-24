@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 </p>
 
 ### Hola 👋
-> Estudiante de Ingeniería en Sistemas.
+> Ing. en Sistemas Informáticos.
 
 
 <img src="https://komarev.com/ghpvc/?username=CarlosCab061&label=Visitas+al+perfil" alt="CarlosCab061" />
 
 <div>
  <p>
-Soy desarrollador junior. Escribo código bien diseñado y eficiente utilizando las mejores prácticas actuales en desarrollo.
+Soy desarrollador. Escribo código bien diseñado y eficiente utilizando las mejores prácticas actuales en desarrollo.
 </p>
 </div>
 
