@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div>
  <p>
-Soy desarrollador. Escribo código bien diseñado y eficiente utilizando las mejores prácticas actuales en desarrollo.
+Escribo código bien diseñado y eficiente utilizando las mejores prácticas actuales en desarrollo.
 </p>
 </div>
 
